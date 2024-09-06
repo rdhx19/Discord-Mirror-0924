@@ -1,0 +1,423 @@
+#  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+# Token of the personal Discord account that will mirror messages.                                        #
+# Learn how to find your account token here: https://www.androidauthority.com/get-discord-token-3149920/  #
+token: "NDU0NTk4NDY2OTU0NDYxMTg1.GIUs4c.P4XsfA14EkAwCMh873LMk9ShtTICe5eCw2QtO4"                                                                           #
+#  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+#  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+# Status of the account that will mirror messages.                                                        #
+# Available options: "online", "invisible", "idle", "dnd".                                                #
+# NOTE: You must be logged out for this option to take effect.                                            #
+status: "online"                                                                                          #
+#  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+#  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+# Message sent in the console when a message is mirrored.                                                 #
+# You can set this to "" to disable it.                                                                   #
+logMessage: "[%date%] Mirrored @%author%'s message from %server% #%channel%."                             #
+#  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+mirrors:
+   1:
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # Channel IDs to mirror.                                                                            #
+      # You can find the ID of a channel by enabling the Developer mode in your                           #
+      # Discord account settings, then Right-Click -> Copy ID on a channel.                               #
+      # NOTE: You can also mirror categories and forums.                                                  #
+      channelIds:                                                                                         #
+         - "1267833391634579587"                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # Webhooks are used to send mirrored messages to specific channels.                                 #
+      # You can create a webhook for a channel with:                                                      #
+      # Edit channel -> Integrations -> Webhooks -> New webook.                                           #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277891263600787457/WJIFGtOQJa1VHl5DX3SSG_7QxRrKwH7McpxhWPg0cLKt2HwV0k4I8z7hOI6hEd3YxxnW"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # Requirements that a message must meet to be mirrored.                                             #
+      requirements:                                                                                       #
+         minEmbedsCount: 0                                                                                #
+         minContentLength: 0                                                                              #
+         minAttachmentsCount: 0                                                                           #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # Options that define how messages are mirrored.                                                    #
+      options:                                                                                            #
+         useWebhookProfile: false # Whether to use the custom webhook profile.                            #
+         removeAttachments: false # Whether to remove attachments before mirroring.                       #
+         mirrorMessagesFromBots: true # Whether to mirror messages coming from bots.                      #
+         mirrorReplyMessages: true # Whether to mirror messages that are replies to other messages.       #
+         mirrorMessagesOnEdit: false # Whether to mirror messages when they are edited.                   #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # Replacements to perform before mirroring a message.                                               #
+      #                                                                                                   #
+      # The where: option is used to specify which part of a message should be replaced.                  #
+      # Available options:                                                                                #
+      # "everywhere", "message_content", "embed_author", "embed_author_url", "embed_author_icon_url",     #
+      # "embed_title", "embed_description", "embed_url", "embed_field_name", "embed_field_value",         #
+      # "embed_image_url", "embed_thumbnail_url", "embed_footer", "embed_footer_icon_url", "embed_color". #
+      replacements:                                                                                       #
+      #  1:                                                                                               #
+      #     replace: "1267836354851635282"                                                        #
+      #     with: "1268134138901430354"                                                             #
+      #     where: "everywhere"                                                                           #
+      # To replace mentions of @roles, @users or #channels, you have to replace their IDs. For example:   #
+       1:                                                                                               #
+          replace: "1267836354851635282"                                                     #
+          with: "1277445062107598878"                                                          #
+          where: "everywhere"                                                                           #
+       2:
+          replace: "1268496129046220820"                                                     #
+          with: "1277445062107598878"                                                          #
+          where: "everywhere"                                                                           #
+      # To replace everything with a specific text, you can use the wildcard (*). For example:            #
+      #  3:                                                                                               #
+      #     replace: "*"                                                                                  #
+      #     with: "this_text_will_replace_everything"                                                     #
+      #     where: "everywhere"                                                                           #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # Filters allows you to only mirror messages that meet certain criteria.                            #
+      #                                                                                                   #
+      # The type: option is used to specify the type of filter. Available options:                        #
+      # - "whitelist": only mirror messages that contain at least one of the keywords.                    #
+      # - "blacklist": only mirror messages that do not contain any of the keywords.                      #
+     #                                                                                                   #
+      # The where: option is used to specify where the filter should be applied.                          #
+      # Available options: "message", "post_tag", "username", "guild_nickname", "user_roles".             #
+      #                                                                                                   #
+      # NOTE: Filters are applied in the order they are defined. If a message                             #
+      # matches a filter, it will not be checked against the others below.                                #
+      filters:                                                                                            #
+         1:                                                                                               #
+            type: "blacklist"                                                                             #
+            keywords:                                                                                     #
+               - "insert_keyword_here"                                                                    #
+            where: "message"                                                                              #
+      # For example, to only mirror messages from the user "crimilo", you can use:                        #
+      #  1:                                                                                               #
+      #     type: "whitelist"                                                                             #
+      #     keywords:                                                                                     #
+      #        - "crimilo"                                                                                #
+      #     where: "username"                                                                             #
+      #  BAGIAN AKADEMI CRYPTO ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   2:
+      #  POJOK NCEK ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1228962492076785785"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277873179846512733/KXloGNFhElnEngYtSYGi-oi4nAacbxS_mQ6awkT9qTZwUlZJ-ohEto0CAW0SVNHFmi6X"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   3:
+      #  POJOK AVS` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1258709288994607250"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277873439474057246/528e2Pk2qgDudWQVu67YevUtq78_JuEv5tB_VsaOttc7mZIT7W5b2NmhaiYGytolmYCV"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #   
+   4:
+      #  act-bitcoin ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1184295348466876437"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277873690217812021/HDrzGOW5a6K76riSCvGJhugVObXlp16Qo-59ZexHVmPxr8f37HEn_w1B6AqrIY9o1srF"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   5:
+      #  act-altcoin ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1153033344804733029"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277879180310220874/l9fHaUCcQ4t7sWUmNGLbwcrlfZHmUPQVqXdcFUpV4NSN3EfIuKjSv3TDvTZnk38pe5ws"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   6:
+      #  market-update ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1250988860624736278"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277873951573278753/RKvawFszCEuJqWaAIGUPS6wa6OQy4ntzSz4VXIcBd3g6ODWqM_7Q8Ktg8E7jhuJs6Uap"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   7:
+      #  rahasia-market ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1186482371596398593"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277874068477050911/HeQXWoXLrP28XtLmEBTOes2FKu52FPt97XLAaB4VrJsIjsLauOp-enJizKjXgUE84XfK"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   8:
+      #  smart-money ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1241256779564711938"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277874203730640896/UAAuZv5upT8ZAWfbc7XzDjwt54PeIx7MPhXUjbtZBH_4gDL4EUJK6shidBXbOyRuG1DA"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   9:
+      #  Community chart ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1264021341959491656"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277874428142682192/SDqAhY-IckkrgtNf5u4rY8pZ2nc8UILSLpNP67tP-0d0NPabWeNVPSAbSf4fZlHr3Ky4"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   10:
+      #  pengumuman premium ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1156425621661032459"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277872784135159820/UwzvSuLYo4xdqkw5KnpYV5m_Y3J3szzOrSHQ36eN2g0IZySOizgV83dLTQZoheZV1yaB"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   11:
+      #  aturan komunitas^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1152624691849220136"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277874783492505661/VO8WBIEtcw65oixaBf9R81NFNkuhOuptZ-TyuEFFDICIaA1rDDhSp0p3JeE2tiWPLq-i"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   12:
+      #  sensivitas-news^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1241975930306428998"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277874986517921913/TSuvmbIlgxRw-KeIzcOuhDOkFA71ooU_vw2AkLQy8L0OQoRYrv_WjqaXqR-JhoueyXrR"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with:    "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   13:
+      #  Trade with suli^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1236563738027364435"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277872949046546468/DtKRslJWnbDM1KjfCkhDivtletrqCvWZwdQVQsPxrtXAuhWXodOPjbnbKkCSDLKQDdtY"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+   14:
+      #  wg-alerts^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "928667540912242698"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277872595378765834/HMJg3rOlfScreewzSmGNcWpSE7RyyNE_95K-Onyruglc0mUCLkojWDP8yGLfksARPAwu"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "930829390869303326"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+   15:
+      #  wg-fomc^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1088142937185063025"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277891263600787457/WJIFGtOQJa1VHl5DX3SSG_7QxRrKwH7McpxhWPg0cLKt2HwV0k4I8z7hOI6hEd3YxxnW"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1119830957021741077"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+   16:
+      #  wg-inflation-tracker^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1119744180927856640"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277872198824104009/0aipK0ES7lz-jKCUFef9NTedu-m8eUI3FohX3cZPzDBq2NcMwUx3ppMQLkGIQdpdbDQG"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1119833284952727632"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+   17:
+      #  berita crypto ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1153016190004891678"                                                             #
+      webhookUrls:                                                                                        #
+        - "https://discord.com/api/webhooks/1277875194421186593/LF7EtykGJKGNYnui8nuHseiBFEA3oxupiiOp1C6W9qZk_XciJPAKbdNMJKJbydmR6_D0"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   18:
+      #  aktivitas-whale ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1153033922498797628"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277875706080006197/pWPCzoK9Klsu-fQkOhH0cj8W7r1iEcsPNPmw13p9Ihse34XgveZ7bQirKu6HvAqVn4oG"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+   19:
+      #  BTC-price ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1119744505063686314"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277871783101333534/0_whRNmEr3d19vLpj8knIrcuyNanrV7okqQ9hoH4CJ6DfYX63W6jWpJ0aTxIhTFWI4Qv"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1119824605520081007"                                                                  #
+          with:    "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+   20:
+      #  forec-section ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1253551636161364078"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277872784135159820/UwzvSuLYo4xdqkw5KnpYV5m_Y3J3szzOrSHQ36eN2g0IZySOizgV83dLTQZoheZV1yaB"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1119824605520081007"                                                                  #
+          with:    "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+   21:
+      #  BAGIAN USDTSEEKERS ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1229362018058764339"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1277872784135159820/UwzvSuLYo4xdqkw5KnpYV5m_Y3J3szzOrSHQ36eN2g0IZySOizgV83dLTQZoheZV1yaB"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+      replacements:                                                                                       #
+        1:                                                                                                 #
+          replace: "1258763676027191437"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
+   22:
+      #  BAGIAN TESTING ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1267833391634579589"                                                                          #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1267996558977404949/ukDS7FFD7Q3xtsWg9gtMgELKy4TrFaCmb7Oj7NxUmBc9TETDGADU0d0LtsVvfDBFMx9y"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1268496129046220820"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
