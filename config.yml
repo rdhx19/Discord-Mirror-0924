@@ -1,14 +1,14 @@
 #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 # Token of the personal Discord account that will mirror messages.                                        #
 # Learn how to find your account token here: https://www.androidauthority.com/get-discord-token-3149920/  #
-token: "NDU0NTk4NDY2OTU0NDYxMTg1.GIUs4c.P4XsfA14EkAwCMh873LMk9ShtTICe5eCw2QtO4"                                                                           #
+token: "MTI5MTM4MjMyNTY3NzkyMDI4MA.GvSK8l.C2HuQOuLVtYSxWmGojc5jJDzJOD1Rm5q4YUChk"                                                                           #
 #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 
 #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 # Status of the account that will mirror messages.                                                        #
 # Available options: "online", "invisible", "idle", "dnd".                                                #
 # NOTE: You must be logged out for this option to take effect.                                            #
-status: "online"                                                                                          #
+status: "invisible"                                                                                          #
 #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 
 #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
@@ -25,7 +25,7 @@ mirrors:
       # Discord account settings, then Right-Click -> Copy ID on a channel.                               #
       # NOTE: You can also mirror categories and forums.                                                  #
       channelIds:                                                                                         #
-         - "1267833391634579587"                                                             #
+         - "1264949317924421682"                                                             #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
@@ -33,7 +33,7 @@ mirrors:
       # You can create a webhook for a channel with:                                                      #
       # Edit channel -> Integrations -> Webhooks -> New webook.                                           #
       webhookUrls:                                                                                        #
-         - "https://discord.com/api/webhooks/1277891263600787457/WJIFGtOQJa1VHl5DX3SSG_7QxRrKwH7McpxhWPg0cLKt2HwV0k4I8z7hOI6hEd3YxxnW"                                                          #
+         - "https://discord.com/api/webhooks/1341121436881784984/N8-trduL-pmcmfqaEeTcB0DeHxqGrsM_fsptxK2XR-P02Xu95OuyalelBYZvF-uXLoQZ"                                                          #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
@@ -48,10 +48,10 @@ mirrors:
       # Options that define how messages are mirrored.                                                    #
       options:                                                                                            #
          useWebhookProfile: false # Whether to use the custom webhook profile.                            #
-         removeAttachments: false # Whether to remove attachments before mirroring.                       #
+         removeAttachments: true # Whether to remove attachments before mirroring.                       #
          mirrorMessagesFromBots: true # Whether to mirror messages coming from bots.                      #
          mirrorReplyMessages: true # Whether to mirror messages that are replies to other messages.       #
-         mirrorMessagesOnEdit: false # Whether to mirror messages when they are edited.                   #
+         mirrorMessagesOnEdit: true # Whether to mirror messages when they are edited.                   #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
@@ -70,12 +70,48 @@ mirrors:
       # To replace mentions of @roles, @users or #channels, you have to replace their IDs. For example:   #
        1:                                                                                               #
           replace: "1267836354851635282"                                                     #
-          with: "1277445062107598878"                                                          #
+          with: "@everyone"                                                          #
           where: "everywhere"                                                                           #
        2:
-          replace: "1268496129046220820"                                                     #
-          with: "1277445062107598878"                                                          #
+          replace: "1311227800778309632"                                                     #
+          with: "1311227853907427369"                                                          #
           where: "everywhere"                                                                           #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       9:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
+      
       # To replace everything with a specific text, you can use the wildcard (*). For example:            #
       #  3:                                                                                               #
       #     replace: "*"                                                                                  #
@@ -99,7 +135,7 @@ mirrors:
          1:                                                                                               #
             type: "blacklist"                                                                             #
             keywords:                                                                                     #
-               - "insert_keyword_here"                                                                    #
+               - "pesan yang keywordnya termasuk akan di blok"                                                                    #
             where: "message"                                                                              #
       # For example, to only mirror messages from the user "crimilo", you can use:                        #
       #  1:                                                                                               #
@@ -121,6 +157,41 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
    3:
       #  POJOK AVS` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
@@ -135,6 +206,41 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #   
    4:
       #  act-bitcoin ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
@@ -150,6 +256,42 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+           #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
+
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
    5:
       #  act-altcoin ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
@@ -165,6 +307,42 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
+
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
    6:
       #  market-update ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
@@ -180,7 +358,44 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
+
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+
    7:
       #  rahasia-market ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
       # You can add more mirrors by copying the structure of the first one. For example:                  #
@@ -195,6 +410,42 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
+
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
    8:
       #  smart-money ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
@@ -210,14 +461,50 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
+
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
    9:
-      #  Community chart ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      #OFF  Altscoin-chart ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
       # You can add more mirrors by copying the structure of the first one. For example:                  #
       channelIds:                                                                                         #
-         - "1264021341959491656"                                                             #
+         - "1287397650681036830"                                                             #
       webhookUrls:                                                                                        #
-         - "https://discord.com/api/webhooks/1277874428142682192/SDqAhY-IckkrgtNf5u4rY8pZ2nc8UILSLpNP67tP-0d0NPabWeNVPSAbSf4fZlHr3Ky4"                                                          #
+         - "https://discord.com/api/webhooks/1277879180310220874/l9fHaUCcQ4t7sWUmNGLbwcrlfZHmUPQVqXdcFUpV4NSN3EfIuKjSv3TDvTZnk38pe5ws"                                                          #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
          #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
       replacements:                                                                                       #
@@ -225,6 +512,41 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
    10:
       #  pengumuman premium ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
@@ -232,7 +554,7 @@ mirrors:
       channelIds:                                                                                         #
          - "1156425621661032459"                                                             #
       webhookUrls:                                                                                        #
-         - "https://discord.com/api/webhooks/1277872784135159820/UwzvSuLYo4xdqkw5KnpYV5m_Y3J3szzOrSHQ36eN2g0IZySOizgV83dLTQZoheZV1yaB"                                                          #
+         - "https://discord.com/api/webhooks/1303956280158715924/bG66pxy9l7S61p9I6Ij_UcCBKV2JoKYnUBGMq15tb9t1X2h4ociFQwi-u5DrBas3x8Qj"                                                          #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
          #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
       replacements:                                                                                       #
@@ -255,6 +577,41 @@ mirrors:
           replace: "1152655670915637389"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+     #  SMARTMONEY^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+       8:
+          replace: "1241256779564711938"                                                     #
+          with: "1277450292144767088"                                                          #
+          where: "everywhere"                                                                           #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
    12:
       #  sensivitas-news^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
@@ -373,16 +730,16 @@ mirrors:
       replacements:                                                                                       #
        1:                                                                                                 #
           replace: "1119824605520081007"                                                                  #
-          with:    "1277445062107598878"                                                                     #
+          with:    "1277884062186340496"                                                                     #
           where: "everywhere"                                                                             #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
    20:
-      #  forec-section ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+      #  CG-NEWS ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
       # You can add more mirrors by copying the structure of the first one. For example:                  #
       channelIds:                                                                                         #
-         - "1253551636161364078"                                                             #
+         - "1333795377001791548"                                                             #
       webhookUrls:                                                                                        #
-         - "https://discord.com/api/webhooks/1277872784135159820/UwzvSuLYo4xdqkw5KnpYV5m_Y3J3szzOrSHQ36eN2g0IZySOizgV83dLTQZoheZV1yaB"                                                          #
+         - "https://discord.com/api/webhooks/1293212275758469180/8rHIlR6_u6adLuobb7FB8A7sls-UVCjuuQwYACk6rTpjrkTek4THsxjCvBtjERy8m9MH"                                                          #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
          #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
       replacements:                                                                                       #
@@ -392,32 +749,143 @@ mirrors:
           where: "everywhere"                                                                             #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
    21:
-      #  BAGIAN USDTSEEKERS ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
+      #  HIGH_NEWS_IMPACT ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
       # You can add more mirrors by copying the structure of the first one. For example:                  #
       channelIds:                                                                                         #
-         - "1229362018058764339"                                                             #
+         - "1277477930469032018"                                                             #
       webhookUrls:                                                                                        #
-         - "https://discord.com/api/webhooks/1277872784135159820/UwzvSuLYo4xdqkw5KnpYV5m_Y3J3szzOrSHQ36eN2g0IZySOizgV83dLTQZoheZV1yaB"                                                          #
+         - "https://discord.com/api/webhooks/1293212987020148736/qf--INiGIscocpvdACjN2Tg_Mhnx6Pddo6qatkChmzbQmS88LZXtJ5Z5PKEx3U1c0ASj"                                                          #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
-      replacements:                                                                                       #
-        1:                                                                                                 #
-          replace: "1258763676027191437"                                                                  #
-          with: "1277445062107598878"                                                                     #
-          where: "everywhere"                                                                             #
+      # replacements:                                                                                       #
+      # 1:                                                                                                 #
+      #   replace: "1258763676027191437"                                                                  #
+      #   with: "1277445062107598878"                                                                     #
+      #   where: "everywhere"                                                                             #
 
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` #
 
    22:
-      #  BAGIAN TESTING ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      #  US_DEBT_TRACE ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
       # You can add more mirrors by copying the structure of the first one. For example:                  #
       channelIds:                                                                                         #
-         - "1267833391634579589"                                                                          #
+         - "1184317567649726505"                                                                          #
       webhookUrls:                                                                                        #
-         - "https://discord.com/api/webhooks/1267996558977404949/ukDS7FFD7Q3xtsWg9gtMgELKy4TrFaCmb7Oj7NxUmBc9TETDGADU0d0LtsVvfDBFMx9y"                                                          #
+         - "https://discord.com/api/webhooks/1293211022227800108/iwlLzF1X4hEzC1kjyVqwLr4Y_OQ8Ea5wVLcCDnsVOtSAoka_xiyx09OIOIsQ9zCoZAqK"                                                          #
       #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
 
       replacements:                                                                                       #
        1:                                                                                                 #
-          replace: "1268496129046220820"                                                                  #
+          replace: "1184317789956227103"                                                                  #
           with: "1277445062107598878"                                                                     #
           where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+
+   23:
+      #  NEWS_CALNEDAR ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1215175559353737246"                                                                          #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1282663140391387167/oq0teSoL4c4qFcMbcehlfjVfBnvznieXrhoWu1VZLmrppY6tF64ikRUIbLzYo6H1O-Lf"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+
+      # replacements:                                                                                       #
+      # 1:                                                                                                 #
+      #   replace: "1184317789956227103"                                                                  #
+      #   with: "1277445062107598878"                                                                     #
+      #   where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+
+   24:
+      #  MARGIN_CALL ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1152641121919442954"                                                                          #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1292922825774207047/hGMkccReA-i1Wd3andB-T-vrNk8_H0zuBjomnB_EkqgEoEMM8oEckZ1i8S8M0ANhfqR8"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+
+      #replacements:                                                                                       #
+      # 1:                                                                                                 #
+      #   replace: "1184317789956227103"                                                                  #
+      #   with: "1277445062107598878"                                                                     #
+      #   where: "everywhere"                                                                             #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+
+   25:
+      #  DC_RF ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "722009475346858044"                                                                          #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1304849535738314876/vw8z8I7n8CBvuUGo-xhmFv2CppZvd9OYHamp5JYYhD39ScWonOGkNWzZfHOfDZTqppxa"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+
+      replacements:                                                                                       #
+       1:                                                                                                 #
+         replace: "730328477160439878"                                                                  #
+         with: "1303767107330379796"                                                                     #
+         where: "everywhere"                                                                             #
+   26:
+      #  Web3-corner^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "1319121612750061608"                                                             #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1319142156988059719/fN7sOxOsyQMoInhlDBaXa4ZT6YELe6oMEV3kZnpLRFlcxCEMrYTlKqWg52MFoZK4EBFf"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+         #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+      replacements:                                                                                       #
+       1:                                                                                                 #
+          replace: "1152655670915637389"                                                                  #
+          with: "1277445062107598878"                                                                     #
+          where: "everywhere"                                                                             #
+     #  BAGIAN REPLACE CHANNEL POJOK NCEK^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`>
+       2:
+          replace: "1228962492076785785"                                                     #
+          with: "1277443142471127107"                                                          #
+          where: "everywhere"                                                                           #
+     #  POJOK AVS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+       3:
+          replace: "1258709288994607250"                                                     #
+          with: "1277443142471127108"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-BITCOIN^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+       4:
+          replace: "1184295348466876437"                                                     #
+          with: "1277443142471127110"                                                          #
+          where: "everywhere"                                                                           #
+     #  ACT-ALTCOINS^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` >
+       5:
+          replace: "1153033344804733029"                                                     #
+          with: "1277879097175052298"                                                          #
+          where: "everywhere"                                                                           #                                                                          #
+     #  MARKET-UPDATE^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`>
+       6:
+          replace: "1250988860624736278"                                                     #
+          with: "1277450247056003142"                                                          #
+          where: "everywhere"                                                                           #
+     #  RAHASIA MARKET^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^>
+       7:
+          replace: "1186482371596398593"                                                     #
+          with: "1277450276768321608"                                                          #
+          where: "everywhere"                                                                           #
+   27:
+      #  DC_RF wpu showcase ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>
+      # You can add more mirrors by copying the structure of the first one. For example:                  #
+      channelIds:                                                                                         #
+         - "758600947692732436"                                                                          #
+      webhookUrls:                                                                                        #
+         - "https://discord.com/api/webhooks/1320981022116020254/RuCalhTn_gSltNenauAXN4WZCGVM5RH8LrequG7yics8tXHuFHnPulPWbQ9jzZaP0W6d"                                                          #
+      #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^`^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^>#
+
+      replacements:                                                                                       #
+       1:                                                                                                 #
+         replace: "730328477160439878"                                                                  #
+         with: "1303767107330379796"                                                                     #
+         where: "everywhere"                                                                             #
+        #  ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t^` ^t>
+
+
+
+
